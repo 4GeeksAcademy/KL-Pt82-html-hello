@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto';
+    background-color: black;
+    margin: 0;
+}
+.Card{
+    background-color: white;
+    height: 650px;
+    width: 500px;
+    margin:35px auto;
+}
+.Image{
+    margin: auto;
+    padding-top: 20px;
+}
+.Reactions{
+    size: 25px;
+}
