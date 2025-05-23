@@ -15,4 +15,16 @@ body{
 }
 .Reactions{
     size: 25px;
+    justify-content: space-evenly;
+}
+.Comment-Sect{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Popularity{
+    margin-left: 10px;
+}
+.Header{
+    margin-left: 10px;
+    padding-top: 20px;
 }
